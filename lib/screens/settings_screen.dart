@@ -120,6 +120,8 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 ],
               ),
               const UiGap(UiSpace.lg),
+              const UiAppearanceSection(),
+              const UiGap(UiSpace.lg),
               const UiUpdateSection(storeId: 'pocketlock'),
               const UiGap(UiSpace.lg),
               const UiDeveloperSection(),

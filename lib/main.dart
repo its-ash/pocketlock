@@ -58,7 +58,6 @@ class PocketlockApp extends StatelessWidget {
       exporter: exporter,
       child: UiApp(
         title: 'Pocketlock',
-        themeMode: ThemeMode.system,
         navigatorKey: navigatorKey,
         home: const Gate(),
       ),
