@@ -1,0 +1,11 @@
+{
+  "id": "pocketlock",
+  "name": "Pocketlock",
+  "repo": "its-ash/pocketlock",
+  "package": "com.itsash.pocketlock",
+  "tagline": "A private, encrypted vault for your photos, videos and files.",
+  "description": "Pocketlock hides photos, videos and files behind a PIN or your fingerprint. Everything is encrypted with AES-256 on your phone and never leaves it: no account, no cloud, no tracking. Import from your gallery, keep your files in albums, view and play them inside the app, and export or share them when you choose. The vault is hidden from recents and screenshots, and locks itself when you leave. There is no reset: if you forget your PIN and lose your fingerprint, your files cannot be recovered.",
+  "category": "Tools",
+  "icon": "assets/icon/logo-1024.png",
+  "homepage": "https://pocketlock.itsash.in/"
+}
